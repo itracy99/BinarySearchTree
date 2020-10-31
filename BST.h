@@ -1,6 +1,4 @@
-//
-// Created by Ian on 12/6/2019.
-//
+
 
 #ifndef PROGRAM_8_BST_H
 #define PROGRAM_8_BST_H

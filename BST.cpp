@@ -1,6 +1,3 @@
-//
-// Created by Ian on 12/6/2019.
-//
 
 #include "BST.h"
 #include "BSTNode.h"
